@@ -1,0 +1,94 @@
+baseURL = "/"
+footnoteReturnLinkContents = "↩"
+languageCode = "en-us"
+title = "Zach Bouzan Kaloustian"
+
+[params]
+  AuthorName = "Zach Bouzan-Kaloustian"
+  GitHubUser = "zacharybk"
+  dateFormat = "January 2, 2006"
+#  showVisitedLinks = true
+#  disableBreadcrumb = false
+#  disableNextPrev = false
+  copyright = "Copyright © 2019-2020 Zach Bouzan-Kaloustian. All Rights Reserved."
+  enableEmoji = "true"
+  color = "#71B180"
+  homeText = "Thoughts and Lessons"
+
+  # See https://feathericons.com/
+  # The value of pre is the icon name
+
+[menu]                                         # Menu placement
+   [[menu.main]]
+     identifier = "home"                        #       - Identifier
+      name = "Home"                              #       - Display name (theme specific key)
+      pre = "home"  # See https://feathericons.com/ The value of pre is the icon name
+      url = "/"                                 #       - Target URL
+      weight= 1                               #       - Sorting order
+[[menu.main]]
+    identifier = "about"
+      name = "About"
+      pre = "clipboard"
+      url = "/about"
+      weight = 2
+[[menu.main]]
+    identifier = "blog"
+      name = "Blog"
+      pre = "cast"
+      url = "/blog"
+      weight= 3
+  #[[menu.main]]
+  #  name = "Tags"
+  #  pre = "tag"
+  #  url = "/tags/"
+  #  weight = 4
+
+[AuthorName]
+  twitter = "https://twitter.com/zacharybk"
+  email =  "zacharybk@gmail.com"
+  name =  "Zach Bouzan-Kaloustian"
+  location = "Brooklyn, New York"
+  phone = 8575402187
+
+  [social]
+  twitter = "zacharybk"
+  linkedin = "zacharybk"
+
+
+##  ListOfFoo = ["foo1", "foo2"]
+##  SidebarRecentLimit = 5
+  Subtitle = "Thoughts and Lessons"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+  ## [outputs]
+  # home = [ "HTML", "RSS", "JSON"]
+
+
+###### Extra Params that I've seen ######
+
+
+
+## Default JPEG quality setting. Default is 75.
+# quality = 75
+
+##  pluralizeListTitles = false
+
+##  googleAnalytics = ""
+
+## Discuss Forum URL
+# forum = "https://discourse.gohugo.io/"
+
+## Google Tag Manager
+# gtmid = ""
+
+# [params]
+
+#  description = "The world’s fastest framework for building websites"
+
+## Used for views in rendered HTML (i.e., rather than using the .Hugo variable)
+#  release = "0.55.0-DEV"
+
+## Gh repo for site footer (include trailing slash)
+#  ghrepo = "https://github.com/XXXXXX/XXXXXXX/"

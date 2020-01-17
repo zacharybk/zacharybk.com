@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-01-15T18:51:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2020-01-15T18:51:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/reflecting_on_2019_and_looking_ahead/</loc>
+    <lastmod>2020-01-15T18:51:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-15T18:51:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-15T18:51:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/avocado/</loc>
+    <lastmod>2020-01-06T14:22:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/findwow/</loc>
+    <lastmod>2020-01-05T14:22:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/thoughts/</loc>
+    <lastmod>2020-01-05T14:22:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/aboutzach/</loc>
+    <lastmod>2020-01-01T14:22:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2020-01-01T14:22:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>

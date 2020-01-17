@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <title> <!-- Two option for a title from here https://gohugo.io/templates/base/ -->
+        {{ partial "header.html" }} 
+      {{ block "title" . }}
+      <!-- Blocks may include default content. -->
+      {{ .Site.Title }}
+      {{ end }}
+
+    </title>
+  </head>
+  <body>
+    Top of base
+
+    <hr>
+
+    {{ block "main" . }}
+
+    {{ end }}
+    <br>
+![image](/static/images/headshot.jpg "Headshot of Zach")
+
+
+
+
+    <hr>
+    {{ block "footer" . }}
+
+    {{ end }}
+
+    <hr>
+    Bottom of Base
+
+  </body>
+
+</html>
