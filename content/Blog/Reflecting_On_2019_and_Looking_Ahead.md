@@ -59,4 +59,4 @@ Additionally, I have been pushing myself to learn more technical skills - such a
 
 Part of this need to build is being expressed in what's currently a project with a few friends. Our concept is to make AWS a whole lot easier to use. The technical confidence that I have to pursue this is at an all-time high, which feels great! My contribution will be to document the complexity that we're abstracting away for the user and to give them confidence in the product. It's an idea and sketches right now and it's already fun to be building.
 
-That's it for now! Get in touch via (email)[mailto:zacharybk@gmail.com] or [Twitter](https://twitter.com/zacharybk) if you have job lead or want to talk about a fun project!
+That's it for now! Get in touch via [email](mailto:zacharybk@gmail.com) or [Twitter](https://twitter.com/zacharybk) if you have job lead or want to talk about a fun project!
