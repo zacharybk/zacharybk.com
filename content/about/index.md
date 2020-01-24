@@ -1,6 +1,5 @@
 ---
 title: "Meet Zach Bouzan-Kaloustian"
-date: 2020-01-01T14:22:49-05:00
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
