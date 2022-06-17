@@ -41,7 +41,6 @@ Here are some photos of the (mostly) finished product and a few in progress shot
 ![living room](https://media-exp1.licdn.com/dms/image/D5612AQGoPWZrRn9vNA/article-inline_image-shrink_1000_1488/0/1654785950504?e=1660780800&v=beta&t=nGW7Rzl_gQh6m71srHuhR565EeKRhAwjm7ol3EtFG1s)
 ![kitchen](https://media-exp1.licdn.com/dms/image/D5612AQEsKDYYnV-Q9A/article-inline_image-shrink_1000_1488/0/1654785970962?e=1660780800&v=beta&t=eCJn19dADwloRNau_q2Alf4mcOhWSjvU7ARqAYjPKIY)
 ![old kitchen](![image](https://user-images.githubusercontent.com/762647/174334347-4bc817ab-c5b9-4ea7-8532-b3785726862a.png)
-)
 ![bathroom](https://media-exp1.licdn.com/dms/image/D5612AQEH0TcWMEcVDg/article-inline_image-shrink_1000_1488/0/1654785832976?e=1660780800&v=beta&t=-dDB46zC2jAGt7XV2EXXV7xnOFlfwvzQtzzDeosxBns)
 ![dumptruck](https://media-exp1.licdn.com/dms/image/D5612AQExv2BgNyDwpg/article-inline_image-shrink_1000_1488/0/1654786856837?e=1660780800&v=beta&t=62gNXDSjgv8LYnrHbYnr6gGIHO1iG5nHjGfCYUJYHcw)
 ![ikea cabinet assembly](https://media-exp1.licdn.com/dms/image/D5612AQEXNpH3RLWalA/article-inline_image-shrink_1500_2232/0/1654787079166?e=1660780800&v=beta&t=pEzYjy4hE5aC7-fuOEHZfkb3eVpdywUUSVFnuEYUgI0)
