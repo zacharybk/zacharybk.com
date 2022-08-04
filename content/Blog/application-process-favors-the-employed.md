@@ -1,3 +1,15 @@
+---
+title: "The Application Process Favors the Employed"
+date: 2022-08-02
+author: "Zach Bouzan-Kaloustian"
+type: ""
+layout: ""
+description: ""
+draft: false
+keywords: ""
+tags: [hiring, layoffs]
+---
+
 ## Intro
 I've been thinking a lot about application and hiring processes in the last few months. In general, it's ripe for efficiencies, so I wanted to share a few thoughts on how candidates, companies, and hiring platforms can make it suck less.
 
