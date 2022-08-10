@@ -4,7 +4,7 @@ date: 2022-08-10T16:38:18-05:00
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
-description: "Having a growth "
+description: "Having a growth mindset in hiring"
 draft: false
 keywords: ""
 tags: [Personal]
