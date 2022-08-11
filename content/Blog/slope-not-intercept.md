@@ -1,10 +1,10 @@
 ---
-title: "My Experience & Expertise with PLG (Product Lead Growth)"
-date: 2022-06-16
+title: "Extra My Experience & Expertise with PLG (Product Lead Growth)"
+date: 2022-06-17
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
-description: "My Experience with PLG"
+description: "Extra My Experience with PLG"
 draft: false
 keywords: ""
 tags: [PLG, Feedback, Product Lead Growth]
