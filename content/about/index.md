@@ -1,7 +1,7 @@
 ---
 title: "Meet Zach Bouzan-Kaloustian"
-date: 2020-01-01T14:22:49-05:00
 author: "Zach Bouzan-Kaloustian"
+date: 2020-01-01 00:00:01 -0500
 type: ""
 layout: ""
 description: ""
@@ -13,8 +13,8 @@ draft: false
 
 
 
-## Quick Bio
-Zach is an Operations and Customer Experience leader with twelve years of experience building international, customer-centric service organizations. He's based in NYC where he lives with his fabulous wife. You can find him around town eating well, working out, taking photos, or on a travel adventure.
+## Bio
+Zach is an Operations and Customer Experience leader with twelve years of experience building international, customer-centric service organizations. He's based in Portland, Maine where he lives with his fabulous wife (Samantha) and dog ([Frankie](https://www.instagram.com/sit.frankie.sit/)) in their recently renovated [1840s townhouse](https://instagram.com/ourmainetownhouse). You can find him around town eating well, working out, taking photos, or on a travel adventure.
 
 ## Zach's superpowers
 
