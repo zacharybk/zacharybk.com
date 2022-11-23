@@ -16,6 +16,8 @@ draft: false
 ## Bio
 Zach is an Operations and Customer Experience leader with twelve years of experience building international, customer-centric service organizations. He's based in Portland, Maine where he lives with his fabulous wife (Samantha) and dog ([Frankie](https://www.instagram.com/sit.frankie.sit/)) in their recently renovated [1840s townhouse](https://instagram.com/ourmainetownhouse). You can find him around town eating well, working out, taking photos, or on a travel adventure.
 
+Learn more: <a href="https://github.com/zacharybk/zacharybk.com/blob/master/static/Zach_Bouzan-Kaloustian_Resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+
 ## Zach's superpowers
 
 * **Customer-centricity:** The customer is at the heart of how my teams operate, how we train, and how we think. Their happiness and success leads to our success.
