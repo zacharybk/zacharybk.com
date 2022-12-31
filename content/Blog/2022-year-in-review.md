@@ -1,5 +1,5 @@
 ---
-title: Recap of 2022"
+title: "Recap of 2022"
 date: 2022-12-32T15:47:18-05:00
 author: "Zach Bouzan-Kaloustian"
 type: ""
@@ -7,7 +7,7 @@ layout: ""
 description: "Another year in the books, bye 2022, hello 2023"
 draft: false
 keywords: "2022, Yearly Recap, 20223"
-tags: [Personal]
+tags: [Personal,2022, Yearly Recap, 20223]
 ---
 
 # Recap of 2022
