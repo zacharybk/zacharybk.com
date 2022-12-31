@@ -52,7 +52,7 @@ The year ahead is the start of our 4th year in Maine, which is wild to think abo
 # Work
 I’m happy that work is last on my list. For many years, work has taken center stage, and while it is still extremely important to me, there’s a different balance as we begin 2023. Also, work wasn’t such a big part of my life this year, as I ended my last role in April. I look back on it, it was a mis-match between my values in how I want to operate and grow a team, and how the business was operated. 
 
-# CX Consulting to kick of 2023
+# CX Consulting to Kick Off 2023
 I’m really excited to be kicking off January with a month’s long consulting project for a YC-W21 company called Measured. I’ll be doing a number of things to help improve their Customer Experience quality and capacity as their company’s growth continues to accelerate. A few highlights include: 
 
 - Mapping CX Processes
