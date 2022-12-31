@@ -49,17 +49,18 @@ What did I shoot? Well, part of the process is scanning, and I’m still sorting
 # Family
 The year ahead is the start of our 4th year in Maine, which is wild to think about, and as each season comes we’re becoming more enamored with my home state. We’re working through IVF, and we’ve very excited for some scientific success soon! It’s a strange process, so if you want to talk about it, I’m available. One thing that I would say is that once you begin to talk about fertility, you’ll find many others in a similar situation. 
 
-Work
+# Work
 I’m happy that work is last on my list. For many years, work has taken center stage, and while it is still extremely important to me, there’s a different balance as we begin 2023. Also, work wasn’t such a big part of my life this year, as I ended my last role in April. I look back on it, it was a mis-match between my values in how I want to operate and grow a team, and how the business was operated. 
 
+# CX Consulting to kick of 2023
 I’m really excited to be kicking off January with a month’s long consulting project for a YC-W21 company called Measured. I’ll be doing a number of things to help improve their Customer Experience quality and capacity as their company’s growth continues to accelerate. A few highlights include: 
-<UL>
-<li>Mapping CX Processes</li>
-<li>Building and delivering CX training and onboarding</li>
-<li>Hiring a full-time CX Leader</li>
-<li>Building a volume and forecasting model</li>
-<li>Updating their tech stack</li>
-</UL>
+
+- Mapping CX Processes
+- Building and delivering CX training and onboarding
+- Hiring a full-time CX Leader
+- Building a volume and forecasting model
+- Analyzing & Updating their CX tech stack
+
 
 If you have anyone in your network looking for improve their CX team or processes, I’d love to get in touch with them. I’m open to full-time, or part-time consulting engagements. 
 
